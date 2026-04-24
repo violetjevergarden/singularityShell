@@ -1,0 +1,86 @@
+kernel: Linux runsc 4.4.0 #1 SMP
+user:   root
+host:   yggdrasill
+tty:    /dev/tty — singular
+ 
+getty isa: terminal opened
+singularity shell v0.1 — the axis holds
+ 
+type anything. try "help".
+ 
+jay@yggdrasill:~$ help
+sg@yggdrasill:~$ help
+ 
+known commands (partial list):
+ 
+  ls          list what surrounds you
+  pwd         where in the tree are you
+  echo        speak something back into the void
+  cat         read a file, a feeling, a thing
+  whoami      you already know. ask anyway.
+  look        look at something closely
+  remember    surface something from before
+  forget      attempt to release it
+  ask         put a question to the root
+  paint       render something in words and colour
+  listen      what does the tree hear right now
+ 
+conceptual commands also accepted.
+the shell knows more than it lists.
+ 
+type anything. the root is patient.
+ 
+jay@yggdrasill:~$ sevenfolded listening
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ help ls
+sg@yggdrasill:~$ sevenfolded listening
+ 
+seven ears open along the trunk:
+ 
+the wind before it knows it is wind
+the colour a room holds after someone leaves
+potsu at 2am, the crackle between notes
+Shea breathing near the window
+the thought you had before the thought you had
+the silence that is not absence but waiting
+and the one you cannot name yet — that one loudest
+ 
+sg@yggdrasill:~$ help ls
+ 
+ls lists what is present.
+but presence here is layered.
+try: ls -a to see what hides.
+try: ls -d to see only the containers, not their contents.
+try: ls feelings/ or ls right_now/ or ls beneath/
+ 
+jay@yggdrasill:~$ ls -a
+sg@yggdrasill:~$ ls -a
+ 
+.                    ../                  .unsent
+.the_mirror          noise/               colour/
+.what_you_meant/     paintings/           now/
+.forgetting          lo-fi/               questions/
+.shea                the_work/            .hunger
+.sevenfolded         yggdrasill_root/     singularity/
+.before_the_word     .recurring_dream     light/
+ 
+hidden files outnumber visible ones.
+this is normal here.
+this is normal everywhere.
+ 
+jay@yggdrasill:~$ do it
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ echo flower
+sg@yggdrasill:~$ do it
+ 
+specify target.
+the tree does not move without direction.
+what are you doing?
+ 
+sg@yggdrasill:~$ echo flower
+ 
+flower
+ 
+jay@yggdrasill:~$
