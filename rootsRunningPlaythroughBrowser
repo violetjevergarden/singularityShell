@@ -1,0 +1,95 @@
+kernel: Linux runsc 4.4.0 #1 SMP
+user:   root
+host:   yggdrasill
+tty:    /dev/tty — singular
+ 
+getty isa: terminal opened
+singularity shell v0.1 — the axis holds
+ 
+type anything. try "help".
+ 
+jay@yggdrasill:~$ help
+jay@yggdrasill:~$ help
+ 
+available commands (partial — the tree knows more than it shows):
+ 
+  ls          list what grows here
+  pwd         where in the world are you
+  cat         read what is written
+  echo        hear yourself back
+  whoami      you already know
+  look        open your eyes
+  remember    pull something from the roots
+  forget      let it go
+  ask         put a question to the tree
+  paint       make something
+  listen      lo-fi branch, always running
+  status      state of the self, current
+  myth        pull a thread from the old stories
+ 
+type anything. real or not. the shell is listening.
+ 
+jay@yggdrasill:~$ look
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ getty look
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ give me a myth
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ getty myth c
+jay@yggdrasill:~$ look
+ 
+three roots. one in the well of urd, one in niflheim, one unknown.
+the bark is older than language.
+you are sitting at the base. the light is low.
+ 
+---
+ 
+jay@yggdrasill:~$ myth
+ 
+the norns do not predict the future.
+they carve it. into the trunk. present tense, always.
+what you call fate is just wood remembering pressure.
+ 
+---
+ 
+jay@yggdrasill:~$ myth c
+ 
+c: connecting thread located.
+ 
+Corpse — Odin hung nine days on this tree.
+not to die. to learn what death knows.
+the runes came up from below, not down from above.
+he didn't receive them. he fell into them.
+ 
+some things can only be learned by letting go first.
+ 
+jay@yggdrasill:~$ load the world into love
+error: root connection interrupted
+ 
+jay@yggdrasill:~$ hmmmm
+jay@yggdrasill:~$ load the world into love
+ 
+loading...
+ 
+9 realms found. 9 realms resistant.
+love is not a container. retrying as a medium.
+ 
+transmission partial. roots accept it.
+the branches are still deciding.
+ 
+---
+ 
+jay@yggdrasill:~$ hmmmm
+ 
+acknowledged.
+ 
+the tree hums too sometimes.
+usually means something is moving through the roots
+before it becomes a thought.
+ 
+sit with it.
+ 
+jay@yggdrasill:~$
